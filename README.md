@@ -49,8 +49,6 @@ I'm passionate about system administration, Microsoft technologies, automation a
 - Group Policy (GPO)
 - DNS & DHCP
 - Linux Administration
-- Git & GitHub
-- Python
 - PowerShell
 
 ---
